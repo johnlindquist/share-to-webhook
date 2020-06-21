@@ -6,6 +6,8 @@
   "author": "johnlindquist <johnlindquist@Johns-MacBook-Pro.local>",
   "license": "MIT",
   "dependencies": {
+    "airtable": "^0.8.1",
+    "dotenv": "^8.2.0",
     "netlify-lambda": "^1.6.3",
     "project-name-generator": "^2.1.7"
   },
